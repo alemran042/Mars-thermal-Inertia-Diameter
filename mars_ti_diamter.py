@@ -24,7 +24,7 @@ def TI2Diameter(mi, mx, Pmin, Pmax, meu = 1250, SH = 800, B= 8.1*10**4, C = 0.00
 	mx = maximum thermal inertia (TIU)
 	P(min and max) = pressure range at martian surface (in torr)
 	meu = typical particle density (ρ)
-	SH = specific heat conductivity (usally 800 Jkg-1K-1)
+	SH = specific heat (usally 800 Jkg-1K-1)
 	C and B = constants
 	
 	#Output parameters:
