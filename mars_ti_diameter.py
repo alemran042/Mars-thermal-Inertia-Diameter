@@ -71,7 +71,7 @@ plt.xlabel( 'Diameter ($\mu m$)',fontsize=fnt)
 plt.ylabel( 'Thermal inertia ($TI$)',fontsize=fnt)
 
 #plt.savefig('DI vs TI.eps', format='eps')
-#plt.savefig('DI vs TI.png')
+plt.savefig('DI vs TI.png')
 plt.show()
 
 pdb.set_trace()  ### STOP
